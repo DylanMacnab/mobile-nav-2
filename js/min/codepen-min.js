@@ -1,0 +1,1 @@
+$(".burger").on("click",function(){$(".burger").toggleClass("burger-open"),$(".mobileNav").toggleClass("mobileNav-open")}),$(".mobileNav_tier1 li").on("click",function(){$(".mobileNav_tier1 li").removeClass("active"),$(this).toggleClass("active")});
