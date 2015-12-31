@@ -1191,6 +1191,9 @@ textarea {
   position: absolute;
   width: 1px; }
 
+.body-bgColor {
+  background: #dfdfdf; }
+
 ul, ol {
   margin: 0;
   padding: 0;
