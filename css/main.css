@@ -408,8 +408,7 @@ a {
   color: #461DDB;
   text-decoration: none; }
   a:hover, a:active {
-    color: #33159e;
-    text-decoration: underline; }
+    text-decoration: none; }
 
 address {
   margin-bottom: 1rem;
@@ -1193,6 +1192,10 @@ textarea {
 
 .body-bgColor {
   background: #dfdfdf; }
+
+a span.icon_text:hover {
+  text-decoration: none;
+  color: white; }
 
 ul, ol {
   margin: 0;

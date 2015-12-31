@@ -11,6 +11,11 @@
   background: #dfdfdf;
 }
 
+a span.icon_text:hover {
+  text-decoration: none;
+  color: white;
+}
+
 $color-red: #E50B00;
 
 ul, ol {

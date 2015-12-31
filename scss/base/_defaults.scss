@@ -90,8 +90,7 @@ a {
   text-decoration: none;
 
   &:hover, &:active {
-    color: $link-hover-color;
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 
